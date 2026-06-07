@@ -18,7 +18,7 @@ Right now, my main goal is to build a stronger, deeper understanding of the **Fu
 * **Platforms:** WordPress (Performance tuning & optimization)
 
 ### 🌐 Let's Connect
-* **LinkedIn:** [linkedin.com/in/ali-niyazi](https://linkedin.com/in/ali-niyazi)
+* **LinkedIn:** [linkedin.com/in/aliniyazi](https://www.linkedin.com/in/aliniyazi/)
 * **Email:** aliniyazi.info@gmail.com
 
 ---
