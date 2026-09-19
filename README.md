@@ -1,25 +1,64 @@
-# Hi there! I'm Ali Niyazi 👋
+# Hi, I'm Ali Niyazi 👋
 
-I am a **Web Engineer & Founder of Noyan Vision**. With a background in Chemistry, I’ve always been drawn to understanding how things work at a foundational level. I apply this same analytical mindset to software engineering.
+I’m a Senior Web Developer with 9+ years of experience building, maintaining, and optimizing web platforms, e-commerce solutions, and performance-focused digital products.
 
-I believe that sustainable web development requires a solid grasp of the basics, which is why I enjoy digging into the details of the technologies I use rather than just scratching the surface.
+My experience includes:
+
+- JavaScript & Frontend Development
+- WordPress Engineering & Custom Solutions
+- WooCommerce & E-commerce Platforms
+- Web Performance Optimization
+- Core Web Vitals
+- Technical SEO & Multilingual Platforms
+
+I have worked on commercial web products, large product catalogs, custom search and filtering systems, multilingual interfaces, and performance optimization projects.
+
+---
+
+## 🚀 Currently Focused On
+
+I am deepening my software engineering foundations with a focus on:
+
+- JavaScript internals
+- TypeScript
+- Frontend Architecture
+- Browser APIs
+- Asynchronous Programming
+- Testing
+- Maintainable Application Design
+
+Learning path:
+
+JavaScript Deep Knowledge  
+↓  
+TypeScript  
+↓  
+Testing  
+↓  
+Modern Frontend Engineering  
+↓  
+Backend Fundamentals  
+↓  
+System Design
 
 ---
 
-### 🎯 What I'm Currently Focused On
-Right now, my main goal is to build a stronger, deeper understanding of the **Full-Stack JavaScript ecosystem**:
-* **Core JavaScript:** Moving past high-level abstractions to genuinely master core mechanics like Closures, the Event Loop, and Asynchronous programming.
-* **Web Performance:** Understanding critical rendering paths and learning how to effectively optimize Core Web Vitals.
-* **Technical SEO:** Exploring how clean code execution impacts search engine crawlability.
+## 🛠 Tech Stack
 
-### 🛠 Tools & Environment
-* **Core:** JavaScript (ES6+), HTML5, CSS3
-* **Workflow:** Node.js, Git & GitHub (Currently practicing cleaner version control habits)
-* **Platforms:** WordPress (Performance tuning & optimization)
+### Core
+JavaScript | HTML | CSS | PHP
 
-### 🌐 Let's Connect
-* **LinkedIn:** [linkedin.com/in/aliniyazi](https://www.linkedin.com/in/aliniyazi/)
-* **Email:** aliniyazi.info@gmail.com
+### Frontend
+Frontend Development | Responsive Design
+
+### Platforms
+WordPress | WooCommerce
+
+### Engineering
+Git | Performance Optimization | Technical SEO
 
 ---
-*Always open to learning from others, sharing experiences, and taking on new technical challenges.*
+
+## 🌐 Connect
+
+LinkedIn: https://www.linkedin.com/in/aliniyazi/
