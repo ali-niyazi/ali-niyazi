@@ -1,6 +1,6 @@
 # Hi, I'm Ali Niyazi 👋
 
-**Senior Web Developer at Noyan Vision** with 9+ years of experience building, maintaining, and optimizing production web platforms and e-commerce systems.
+**Founder & Senior Web Developer at Noyan Vision** with 9+ years of experience building, maintaining, and optimizing production web platforms and e-commerce systems.
 
 My work focuses on **JavaScript, Web Engineering, Technical SEO, and Web Performance**, with extensive hands-on experience in **WordPress and WooCommerce**.
 
@@ -39,7 +39,7 @@ I care about building web systems that are fast, maintainable, search-friendly, 
 
 ## Current Engineering Focus
 
-I'm currently going deeper into modern web engineering, particularly:
+Current areas of deeper technical focus include:
 
 - JavaScript internals
 - TypeScript
