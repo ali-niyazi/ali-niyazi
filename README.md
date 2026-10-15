@@ -1,23 +1,45 @@
 # Hi, I'm Ali Niyazi 👋
 
-I’m a Senior Web Developer with 9+ years of experience building, maintaining, and optimizing web platforms, e-commerce solutions, and performance-focused digital products.
+**Senior Web Developer at Noyan Vision** with 9+ years of experience building, maintaining, and optimizing production web platforms and e-commerce systems.
 
-My experience includes:
+My work focuses on **JavaScript, Web Engineering, Technical SEO, and Web Performance**, with extensive hands-on experience in **WordPress and WooCommerce**.
+
+I care about building web systems that are fast, maintainable, search-friendly, and reliable in production.
+
+## What I Work On
 
 - JavaScript & Frontend Development
-- WordPress Engineering & Custom Solutions
-- WooCommerce & E-commerce Platforms
+- Web Engineering
+- Technical SEO
 - Web Performance Optimization
 - Core Web Vitals
-- Technical SEO & Multilingual Platforms
+- WordPress Engineering
+- WooCommerce & E-commerce
+- Multilingual Web Platforms
+- Search, Filtering & Product Discovery
+- Production Website Maintenance
 
-I have worked on commercial web products, large product catalogs, custom search and filtering systems, multilingual interfaces, and performance optimization projects.
+## Tech Stack
 
----
+### Core
 
-## 🚀 Currently Focused On
+`JavaScript` · `HTML` · `CSS` · `PHP`
 
-I am deepening my software engineering foundations with a focus on:
+### Web & Frontend
+
+`Responsive Web Development` · `Browser APIs` · `Frontend Engineering`
+
+### Platforms
+
+`WordPress` · `WooCommerce`
+
+### Engineering
+
+`Git` · `Web Performance` · `Core Web Vitals` · `Technical SEO`
+
+## Current Engineering Focus
+
+I'm currently going deeper into modern web engineering, particularly:
 
 - JavaScript internals
 - TypeScript
@@ -26,39 +48,28 @@ I am deepening my software engineering foundations with a focus on:
 - Asynchronous Programming
 - Testing
 - Maintainable Application Design
+- Backend Fundamentals
+- System Design
 
-Learning path:
+## Experience
 
-JavaScript Deep Knowledge  
-↓  
-TypeScript  
-↓  
-Testing  
-↓  
-Modern Frontend Engineering  
-↓  
-Backend Fundamentals  
-↓  
-System Design
+My professional work includes:
 
----
+- Production websites and commercial web platforms
+- Large WooCommerce product catalogs
+- Custom search and filtering systems
+- Multilingual websites and interfaces
+- Technical SEO implementation
+- Core Web Vitals and performance optimization
+- WordPress and WooCommerce customization
+- Long-term maintenance of production systems
 
-## 🛠 Tech Stack
+## Connect
 
-### Core
-JavaScript | HTML | CSS | PHP
-
-### Frontend
-Frontend Development | Responsive Design
-
-### Platforms
-WordPress | WooCommerce
-
-### Engineering
-Git | Performance Optimization | Technical SEO
+[LinkedIn](https://www.linkedin.com/in/aliniyazi/) ·
+[DEV Community](https://dev.to/aliniyazi) ·
+[WordPress.org](https://profiles.wordpress.org/aliniyazi/)
 
 ---
 
-## 🌐 Connect
-
-LinkedIn: https://www.linkedin.com/in/aliniyazi/
+**JavaScript · Web Engineering · Technical SEO · Web Performance**
