@@ -2,7 +2,7 @@
 
 **Founder & Senior Web Developer at Noyan Vision** with 9+ years of experience building, maintaining, and optimizing production web platforms and e-commerce systems.
 
-My work focuses on **JavaScript, Web Engineering, Technical SEO, and Web Performance**, with extensive hands-on experience in **WordPress and WooCommerce**.
+My work focuses on **JavaScript, Web Engineering, Technical SEO, and Web Performance**, backed by extensive hands-on experience with **WordPress and WooCommerce** in production environments.
 
 I care about building web systems that are fast, maintainable, search-friendly, and reliable in production.
 
@@ -25,31 +25,30 @@ I care about building web systems that are fast, maintainable, search-friendly, 
 
 `JavaScript` · `HTML` · `CSS` · `PHP`
 
-### Web & Frontend
+### Web Engineering
 
-`Responsive Web Development` · `Browser APIs` · `Frontend Engineering`
+`Browser APIs` · `Responsive Web Development` · `Frontend Development`
 
 ### Platforms
 
 `WordPress` · `WooCommerce`
 
-### Engineering
+### Engineering & Optimization
 
 `Git` · `Web Performance` · `Core Web Vitals` · `Technical SEO`
 
 ## Current Engineering Focus
 
-Current areas of deeper technical focus include:
+I am currently deepening my software engineering foundations with a focus on:
 
 - JavaScript internals
-- TypeScript
-- Frontend Architecture
+- Asynchronous JavaScript
 - Browser APIs
-- Asynchronous Programming
-- Testing
-- Maintainable Application Design
-- Backend Fundamentals
-- System Design
+- Computer Science fundamentals
+- Data Structures & Algorithms
+- Maintainable JavaScript applications
+
+TypeScript is the next major step in this progression.
 
 ## Experience
 
@@ -62,7 +61,11 @@ My professional work includes:
 - Technical SEO implementation
 - Core Web Vitals and performance optimization
 - WordPress and WooCommerce customization
-- Long-term maintenance of production systems
+- Long-term maintenance and troubleshooting of production systems
+
+## Current Direction
+
+My long-term technical direction is toward deeper **JavaScript and software engineering**, supported by stronger computer science foundations and continued production experience.
 
 ## Connect
 
